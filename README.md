@@ -15,5 +15,13 @@ Collection of Projects for going through AngularJs Framework
 
 
 ### Web Templating:
-* Populate a webpage from JSON object (for example, from Firebase)
-* 
+* Populate a webpage from JSON object
+* Populate a webpage from Firebase (AngularFire)
+
+
+### Directives
+Teach your HTML new tricks!
+
+* Create a chart directive to display a chart with given arguments
+
+
