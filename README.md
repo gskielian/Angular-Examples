@@ -20,7 +20,7 @@ Collection of Projects for going through AngularJs Framework
 
 
 ### Directives
-Teach your HTML new tricks!
+*Teach your HTML new tricks!*
 
 * Create a chart directive to display a chart with given arguments
 
