@@ -23,5 +23,12 @@ Collection of Projects for going through AngularJs Framework
 *Teach your HTML new tricks!*
 
 * Create a chart directive to display a chart with given arguments
+* 
+
+### Real-Time Charts
+
+* Integrationg of AngularJs and D3:
+  * http://briantford.com/blog/angular-d3.html
+  * [Link to github tutorial](./RealTimeCharts/README.md)
 
 
